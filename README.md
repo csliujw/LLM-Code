@@ -8,3 +8,6 @@
 本仓库未来会包含：项目笔记和项目源码。
 
 <b>教程安利</b> 如果你也想了解大模型，可以去这里了解一下哦 [大模型实战营](https://github.com/InternLM/Tutorial)
+
+项目架构图
+<img src="./Architecture.png />
