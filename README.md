@@ -11,4 +11,4 @@
 
 项目架构图
 
-![](Architecture.png)
+![ar](Architecture.png)
